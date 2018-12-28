@@ -17,3 +17,5 @@ The library is currently only lightly tested, you're probably going to encounter
 
 * libnx contributors
 * cppreference.com and cplusplus.com
+* https://github.com/oktonion/stdex
+* the implementation of the C++ standard library which comes with devkitA64
