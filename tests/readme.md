@@ -1,0 +1,1 @@
+All of these "tests" are actually examples copied from cppreference.com and thus available under the terms of [CC-BY-SA](https://en.cppreference.com/w/Cppreference:Copyright/CC-BY-SA).

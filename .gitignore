@@ -1,0 +1,16 @@
+debug/
+release/
+lib/
+
+libnxcppthread.*
+libnxcppthread-src.*
+
+**/build/
+
+*.elf
+*.nacp
+*.nro
+*.nso
+*.pfs0
+
+.vscode/
